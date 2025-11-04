@@ -14,7 +14,7 @@ Subsequently, set the following in the `.yaml` file.
 ```
 format:
   revealjs:
-    theme: website-theme.scss
+    theme: THEME-NAME.scss
     logo: "https://github.com/thomvolker/slides-theme/blob/main/universiteit-utrecht-logo.png?raw=true"
     incremental: false
 ```
